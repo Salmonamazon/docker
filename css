@@ -1,0 +1,10 @@
+flask-docker-azure/
+│
+├── app/
+│   ├── main.py
+│   ├── templates/
+│   │   └── index.html
+│
+├── Dockerfile
+├── requirements.txt
+├── README.md
